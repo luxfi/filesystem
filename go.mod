@@ -3,7 +3,7 @@ module github.com/luxfi/filesystem
 go 1.25.5
 
 require (
-	github.com/google/renameio/v2 v2.0.1
+	github.com/google/renameio/v2 v2.0.2
 	github.com/luxfi/mock v0.1.1
 	github.com/stretchr/testify v1.11.1
 	go.uber.org/mock v0.6.0
