@@ -1,4 +1,4 @@
-# LLM.md - Hanzo Filesystem
+# Hanzo Filesystem
 
 ## Overview
 Go module: github.com/luxfi/filesystem
