@@ -1,6 +1,6 @@
 module github.com/luxfi/filesystem
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/google/renameio/v2 v2.0.2
